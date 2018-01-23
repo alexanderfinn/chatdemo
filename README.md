@@ -1,4 +1,4 @@
-#ChatDemo Application - Interview Task
+# ChatDemo Application - Interview Task
 
 This is a simple demo application to showcase my coding skills for job applications.
 
